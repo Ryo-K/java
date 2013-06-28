@@ -1,7 +1,4 @@
-/*“ü—Í‚µ‚½•¶Žš‚Ì•\Ž¦*/
-
 import java.io.*;
-
 class Sample1
 {
     public static void main(String[] args) throws IOException
